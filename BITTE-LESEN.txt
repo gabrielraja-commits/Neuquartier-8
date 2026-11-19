@@ -1,0 +1,10 @@
+GÄSTEGUIDE KRIENS - FERTIGE GITHUB-VERSION
+
+1. ZIP-Datei auf deinem Computer entpacken.
+2. Die enthaltene index.html in denselben GitHub-Ordner hochladen, aus dem deine bisherige Website veröffentlicht wird, und die bisherige index.html ersetzen. Nicht die ZIP-Datei selbst hochladen.
+3. Die Datei .nojekyll kannst du ebenfalls hochladen.
+4. Warten, bis GitHub Pages die Änderung veröffentlicht hat. Danach die Website neu laden, falls nötig mit Strg+F5.
+
+Logo, WLAN-QR-Code, Gestaltung und Funktionen stecken direkt in index.html. Ein assets-Ordner ist für diese Version nicht erforderlich. Alte CSS-, JS- und Bilddateien werden von dieser neuen index.html nicht mehr geladen.
+
+Zum lokalen Öffnen genügt ein Doppelklick auf index.html. Routen und Anbieterlinks brauchen Internet. Falls der Browser lokales Kopieren blockiert, das sichtbare WLAN-Passwort markieren und manuell kopieren.
